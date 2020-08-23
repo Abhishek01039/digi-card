@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426985636090",
+    "firebase_url": "https://digi-card-c93da.firebaseio.com",
+    "project_id": "digi-card-c93da",
+    "storage_bucket": "digi-card-c93da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426985636090:android:9588c18143ee822833c943",
+        "android_client_info": {
+          "package_name": "com.example.digicard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426985636090-f4a4v32bqk52b8eib5aee94k7tic974u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digicard",
+            "certificate_hash": "81a28a5105d7b17c71f92b6608f9ce830ae46e99"
+          }
+        },
+        {
+          "client_id": "426985636090-ruu9aaevg5jjqrvaph9u3g5k1bkdl3c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOt-MzHf8EmwUP4wG80Wh7eBt8DOKuCPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426985636090-ruu9aaevg5jjqrvaph9u3g5k1bkdl3c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

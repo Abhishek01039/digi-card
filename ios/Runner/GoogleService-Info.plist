@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>426985636090-dcss643dpuiro67apla44d7bmabi7ktj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.426985636090-dcss643dpuiro67apla44d7bmabi7ktj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>426985636090-f4a4v32bqk52b8eib5aee94k7tic974u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBpUadc-qoCXCxk-1Evy8E0kQw2aZw-l4E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>426985636090</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.digicard</string>
+	<key>PROJECT_ID</key>
+	<string>digi-card-c93da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>digi-card-c93da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:426985636090:ios:e367fa9b823499c733c943</string>
+	<key>DATABASE_URL</key>
+	<string>https://digi-card-c93da.firebaseio.com</string>
+</dict>
+</plist>
